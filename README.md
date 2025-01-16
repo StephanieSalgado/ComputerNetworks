@@ -1,3 +1,6 @@
 # Computer Networks
 
-View branches for course work.
+## Course work:
+- [Class]()
+- [Lab]()
+- [Project]()
